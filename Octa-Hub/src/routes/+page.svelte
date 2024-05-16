@@ -1,4 +1,3 @@
-
 <svelte:head>
 	<title>Home</title>
 	<meta name="description" content="Svelte demo app" />
@@ -12,6 +11,13 @@
 </section>
 
 <style>
+	@font-face {
+		font-family: 'Octapus';
+		font-style: normal;
+		font-weight: 400;
+		src: url('$lib/OctopusBold.woff2') format('woff2');
+	}
+
 	section {
 		display: flex;
 		flex-direction: column;
@@ -21,6 +27,8 @@
 	}
 
 	h1 {
+		font-family: 'Octapus', sans-serif;
+		font-size: 3rem;
 		width: 100%;
 	}
 

@@ -9,7 +9,7 @@
 	<nav>
 		<div class="header">
 			<img class="logo" src={Octa_print} alt="" />
-			<a href="/submut" class="button">Getting Started</a>
+			<a href="/submit" class="button">Getting Started</a>
 		</div>
 	</nav>
 
