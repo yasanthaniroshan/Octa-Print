@@ -28,3 +28,7 @@ python3 -m venv $PWD/Octa-Arm # Creating Virtual Environment
 pip install -r Octa-Arm/requirements.txt # Installing Required Libraries
 ```
 
+
+## License
+ ![weAdvert](./../Assets/Logo/Weadvert-Logo.png)
+ This porject idea was originally developed for the [WeAdvert](https://weadvert.lk/) Advertising Agency. The project is open-source and available under the [MIT License](./../License/LICENSE).
