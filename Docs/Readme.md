@@ -1,4 +1,5 @@
 # Octa-Print
+![Logo](./../Assets/Logo/Octa-Print.png)
 
 ## Installation 
 ```bash
